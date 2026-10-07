@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/exercises/">
+    <Project Path="exercises/01a-brush-teeth/01a-brush-teeth.csproj" />
+  </Folder>
   <Project Path="01-hello/01-hello.csproj" />
 </Solution>
