@@ -1,6 +1,16 @@
 <Solution>
+  <Folder Name="/challenges/">
+    <Project Path="challenges/02a-calcule-resto-da-divisao/02a-calcule-resto-da-divisao.csproj" />
+    <Project Path="challenges/02b-challenge/02b-challenge.csproj" />
+  </Folder>
   <Folder Name="/exercises/">
     <Project Path="exercises/01a-brush-teeth/01a-brush-teeth.csproj" />
+    <Project Path="exercises/02a-operations/02a-operations.csproj" />
+    <Project Path="exercises/02b-operations/02b-operation.csproj" />
+    <Project Path="exercises/02c-operations/02c-operations.csproj" />
+    <Project Path="exercises/02d-operations/02d-operations.csproj" />
   </Folder>
   <Project Path="01-hello/01-hello.csproj" />
+  <Project Path="02-variables/02-variables.csproj" />
+  <Project Path="02b-operations/02b-operations.csproj" />
 </Solution>
