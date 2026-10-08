@@ -9,8 +9,12 @@
     <Project Path="exercises/02b-operations/02b-operation.csproj" />
     <Project Path="exercises/02c-operations/02c-operations.csproj" />
     <Project Path="exercises/02d-operations/02d-operations.csproj" />
+    <Project Path="exercises/03a-gameTask/03a-gameTask.csproj" />
+    <Project Path="exercises/03b-text/03b-text.csproj" />
+    <Project Path="exercises/03c-text-length/03c-text-length.csproj" />
   </Folder>
   <Project Path="01-hello/01-hello.csproj" />
   <Project Path="02-variables/02-variables.csproj" />
   <Project Path="02b-operations/02b-operations.csproj" />
+  <Project Path="03-strings/03-strings.csproj" />
 </Solution>
