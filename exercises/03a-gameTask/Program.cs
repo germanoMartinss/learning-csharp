@@ -4,8 +4,10 @@ int caos = 3;
 int orgs = 25;
 int flags = 5;
 
-Console.WriteLine($"Derrote os goblins da montanha {globins} vezes.");
-Console.WriteLine($"Colete {redFruits} frutas vermelhas para criar uma poção de HP");
-Console.WriteLine($"Colete {caos} joias do caos para forjar uma espada poderosa.");
-Console.WriteLine($"Derrote todos os {orgs} ogros do pântano.");
-Console.WriteLine($"Destrua as {flags} bandeiras do clã inimigo.");
+
+Console.WriteLine($"Missões");
+Console.WriteLine($"- Derrote os goblins da montanha ({globins}).");
+Console.WriteLine($"- Colete os frutos vermelhos para criar uma poção de HP ({redFruits}).");
+Console.WriteLine($"- Colete joias do caos para forjar uma espada poderosa ({caos}).");
+Console.WriteLine($"- Derrote todos os ogros do pântano ({orgs}).");
+Console.WriteLine($"- Destrua as bandeiras do clã inimigo ({flags}).");
