@@ -1,4 +1,4 @@
 ﻿string dontPanic = "Don't Panic!";
-int totalCaracters = dontPanic.Length;
-Console.WriteLine(totalCaracters);
+
+Console.WriteLine($"O texto \"{dontPanic}\" possui {dontPanic.Length} letras");
 
