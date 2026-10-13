@@ -12,9 +12,12 @@
     <Project Path="exercises/03a-gameTask/03a-gameTask.csproj" />
     <Project Path="exercises/03b-text/03b-text.csproj" />
     <Project Path="exercises/03c-text-length/03c-text-length.csproj" />
+    <Project Path="exercises/04a-sum-sub-mult-div/04-sum-sub-mult-div.csproj" />
+    <Project Path="exercises/04b-person-rpg/04b-person-rpg.csproj" />
   </Folder>
   <Project Path="01-hello/01-hello.csproj" />
   <Project Path="02-variables/02-variables.csproj" />
   <Project Path="02b-operations/02b-operations.csproj" />
   <Project Path="03-strings/03-strings.csproj" />
+  <Project Path="04-input-output/04-input-output.csproj" />
 </Solution>
