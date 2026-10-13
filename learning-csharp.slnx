@@ -23,4 +23,5 @@
   <Project Path="02b-operations/02b-operations.csproj" />
   <Project Path="03-strings/03-strings.csproj" />
   <Project Path="04-input-output/04-input-output.csproj" />
+  <Project Path="05-control-flow/05-control-flow.csproj" />
 </Solution>
