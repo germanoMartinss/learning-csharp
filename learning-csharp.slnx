@@ -15,6 +15,8 @@
     <Project Path="exercises/04a-sum-sub-mult-div/04-sum-sub-mult-div.csproj" />
     <Project Path="exercises/04b-person-rpg/04b-person-rpg.csproj" />
     <Project Path="exercises/04c-percent/04c-percent.csproj" />
+    <Project Path="exercises/04d-game-points/04d-game-points.csproj" />
+    <Project Path="exercises/04e-distancia-porhora/04e-distancia-porhora.csproj" />
   </Folder>
   <Project Path="01-hello/01-hello.csproj" />
   <Project Path="02-variables/02-variables.csproj" />

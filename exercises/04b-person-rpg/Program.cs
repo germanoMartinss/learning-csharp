@@ -9,7 +9,7 @@ int strength = Convert.ToInt32(Console.ReadLine());
 Console.Write($"Pontos de velocidade: ");
 int agility = Convert.ToInt32(Console.ReadLine());
 Console.Write($"Pontos de altura: ");
-int height = Convert.ToInt32(Console.ReadLine());
+float height = Convert.ToSingle(Console.ReadLine());
 
 Console.WriteLine($"Atributos do seu personagem:");
 Console.WriteLine($"- Pontos de vida(HP): {hp}");
