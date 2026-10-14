@@ -12,3 +12,7 @@ if (age >= maioridade)
 {
     Console.WriteLine($"Olá {name}, você é maior de idade!");
 }
+else
+{
+    Console.WriteLine($"Olá {name}, você é menor de idade!");
+}
