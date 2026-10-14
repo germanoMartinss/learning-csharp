@@ -2,6 +2,8 @@
   <Folder Name="/challenges/">
     <Project Path="challenges/02a-calcule-resto-da-divisao/02a-calcule-resto-da-divisao.csproj" />
     <Project Path="challenges/02b-challenge/02b-challenge.csproj" />
+    <Project Path="challenges/05a-par-ou-impar/05a-par-ou-impar.csproj" />
+    <Project Path="challenges/05b-game-tasks/05b-game-tasks.csproj" />
   </Folder>
   <Folder Name="/exercises/">
     <Project Path="exercises/01a-brush-teeth/01a-brush-teeth.csproj" />
@@ -17,6 +19,10 @@
     <Project Path="exercises/04c-percent/04c-percent.csproj" />
     <Project Path="exercises/04d-game-points/04d-game-points.csproj" />
     <Project Path="exercises/04e-distancia-porhora/04e-distancia-porhora.csproj" />
+    <Project Path="exercises/05a-maior-ou-menor-idade/05a-maior-ou-menor-idade.csproj" />
+    <Project Path="exercises/05b-maior-numero/05b-maior-numero.csproj" />
+    <Project Path="exercises/05c-calculate/05c-calculate.csproj" />
+    <Project Path="exercises/05d-time-classificado/05d-time-classificado.csproj" />
   </Folder>
   <Project Path="01-hello/01-hello.csproj" />
   <Project Path="02-variables/02-variables.csproj" />
